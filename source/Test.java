@@ -8,3 +8,6 @@ public class Test {
 		System.out.println("hi");
 	}
 }
+
+
+{"active":"活跃","area":"","cityType":"一线","farea":"","model":"X9s","oto":"线下","registerDateFrom":"","registerDateTo":"","saleDateFrom":"","saleDateTo":"","shipDateFrom":"","shipDateTo":"","total":1000,"userBirthFrom":"","userBirthTo":"","userSex":"男"
