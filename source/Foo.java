@@ -1,3 +1,6 @@
 public interface Foo{
-	List<String> findFoo();
+	
+	List<String> findFoos();
+	
+	String findFooById(String id);
 }
